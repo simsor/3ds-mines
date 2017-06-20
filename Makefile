@@ -36,6 +36,7 @@ INCLUDES	:=	include
 
 APP_TITLE 	:= 	3DS-Mines
 APP_DESCRIPTION :=	A Minesweeper game for the 3DS
+APP_AUTHOR	:=	Simsor
 
 #---------------------------------------------------------------------------------
 # options for code generation
