@@ -1,0 +1,5 @@
+sdmc
+build
+*.elf
+*.3dsx
+*.smdh
